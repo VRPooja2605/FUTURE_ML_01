@@ -1,27 +1,47 @@
-# Sales Forecasting using Machine Learning
+# 📊 Sales Forecasting using Machine Learning
 
-## Internship Task 1
+## Internship Task 1 – FUTURE_ML_01
 
-This project analyzes and forecasts sales using the Superstore dataset.
+This project analyzes historical sales data from the Superstore dataset and prepares it for sales forecasting using Python and Machine Learning techniques.
 
-### Tools Used
+---
+
+## 🧰 Tools & Technologies
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Scikit-Learn
+- Scikit-learn
 - Jupyter Notebook
 
-### Steps Performed
-1. Data Loading
-2. Data Cleaning
-3. Exploratory Data Analysis
-4. Monthly Sales Aggregation
-5. Sales Trend Visualization
-6. Forecast Interpretation
+---
 
-### Dataset
-Superstore Sales Dataset
+## 📁 Dataset
+Superstore Sales Dataset containing information about:
+- Orders
+- Customers
+- Products
+- Sales and Profit
 
-### Author
-Pooja
+---
+
+## 🔍 Steps Performed
+1. Data Loading using Pandas
+2. Data Cleaning and Preprocessing
+3. Converting Order Date to DateTime
+4. Sorting and Indexing by Date
+5. Monthly Sales Aggregation
+6. Sales Trend Visualization
+7. Business Insights and Forecast Interpretation
+
+---
+
+## 📈 Output
+- Monthly Sales Trend Visualization
+- Prepared dataset for forecasting models
+
+---
+
+## 👩‍💻 Author
+**V R Pooja**  
+Machine Learning Intern
